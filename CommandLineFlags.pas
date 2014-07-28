@@ -1,4 +1,4 @@
-unit ConsoleFlags;
+unit CommandLineFlags;
 
 interface
 
